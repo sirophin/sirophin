@@ -33,33 +33,13 @@ AI Security, SOC Operations, CTFs, and Bug Bounty Hunting. I build security tool
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🕵️ Cypherdote**
-*Cyber Security Intern*
+**🕵️ Cyber Security Intern** — Cypherdote
 `Jul 2025 – Sep 2025`
+VAPT exposure & vulnerability scanning (Nessus) · Product security testing & bug reporting · Technical documentation (CAPS Tool)
 
-- VAPT exposure & vulnerability scanning (Nessus)
-- Product security testing & bug reporting
-- Technical documentation (CAPS Tool)
-
-</td>
-<td width="50%" valign="top">
-
-**🔐 Ozone Cyber Security**
-*Junior Security Analyst*
+**🔐 Junior Security Analyst** — Ozone Cyber Security
 `Jul 1, 2026 – Jul 30, 2026`
-
-- Network security fundamentals
-- Firewall & traffic filtering concepts
-- Network monitoring & hardening
-- Basic SOC alert triage exposure
-
-</td>
-</tr>
-</table>
+Network security fundamentals · Firewall & traffic filtering concepts · Network monitoring & hardening · Basic SOC alert triage exposure
 
 <br/>
 
@@ -107,11 +87,15 @@ AI Security, SOC Operations, CTFs, and Bug Bounty Hunting. I build security tool
 
 ## 🏆 Achievements
 
-- 🥇 National Level CTF — 1st Place
-- 🧩 Built custom CTF challenges as Challenge Creator, R00T@W34
-- 🚀 Designed & shipped 3 independent security tools
-- 🎓 Ran a 2-Day Cybersecurity Bootcamp for peers
-- 🐛 Active bug bounty practice on PortSwigger
+<div align="center">
+
+![1st Place](https://img.shields.io/badge/🥇%201st%20Place-National%20Level%20CTF-0d1117?style=flat-square&labelColor=0d1117&color=E8590C)
+![Challenge Creator](https://img.shields.io/badge/🧩%20Challenge%20Creator-R00T%40W34-0d1117?style=flat-square&labelColor=0d1117&color=E8590C)
+![Projects](https://img.shields.io/badge/🚀%203%20Security%20Tools-Designed%20%26%20Shipped-0d1117?style=flat-square&labelColor=0d1117&color=E8590C)
+![Bootcamp](https://img.shields.io/badge/🎓%202--Day%20Bootcamp-Conducted-0d1117?style=flat-square&labelColor=0d1117&color=E8590C)
+![Bug Bounty](https://img.shields.io/badge/🐛%20Bug%20Bounty-PortSwigger%20Practice-0d1117?style=flat-square&labelColor=0d1117&color=E8590C)
+
+</div>
 
 <br/>
 
